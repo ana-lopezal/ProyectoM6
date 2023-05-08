@@ -6,5 +6,4 @@ character = [' there lived a king.',' there was a man named Jack.',
 
 time = [' One day', ' One full-moon night']
   
-story_plot = [' he was passing by', ' he was going for a picnic to ']
   
